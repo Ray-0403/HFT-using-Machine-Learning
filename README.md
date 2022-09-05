@@ -7,7 +7,7 @@ Backtrader is used in the end to backtest the HFT model.
 
 HFT_Project 1 and 2 used LightGBM with different settings of features
 
-HFT_Project_deeplearning_transformer used CNN to extract order book features from 15 levels of orderbook data and transformer to build HFT model.
+HFT_Project_deeplearning_transformer used CNN to extract order book features from 15 levels of orderbook data and a transformer.
 
 Simple backtest without considering queue position 
 <img width="1002" alt="Screenshot 2022-06-11 at 06 28 44" src="https://user-images.githubusercontent.com/49976973/173174218-90a8149e-8b77-4b34-bcd8-e806268dcf0e.png">
