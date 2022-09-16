@@ -1,5 +1,5 @@
 # HFT-using-Machine-Learning
-My first high-frequency trading model using machine learning (LightGBM + CNN + Transformer), which is part of my initial research.
+My first high-frequency trading project using machine learning (LightGBM + CNN + Transformer), which is part of my initial research.
 
 I used 1 month length of 1 second high-frequency ES futures data with 15 levels of order book each side to train and test the model. PCA and supervised autoencoder are used in dimensionality reduction, and Lightgbm with hyperparameters tuning using optuna and Transformer are used for predicting the mid-price movement.
 
